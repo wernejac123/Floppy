@@ -9,19 +9,18 @@ usage:
         units:
      		'B' BYTES
 
-		'K' KB
+			'K' KB
 
-		'M' MB
+			'M' MB
 
-		'G' GB
+			'G' GB
 
         total KB is units * count
 
         ex: 'M', 76 means you are writing 76MB of data to floppies
 
   	'G' is for entertainment purposes mainly. You'd have to be insane to write even 1G of 
-
-        data to floppies
+data to floppies
 
 NOTE: this program does not take into consideration the space reserved 
 
